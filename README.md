@@ -1,2 +1,2 @@
-# Prac-dev
-THis repo is for practising the github flow
+# Devops Practice Repo
+This is the repo that is made only for practice purpose!!!.
